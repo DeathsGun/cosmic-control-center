@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Control Center
+Exec=cosmic-control-center
+Terminal=false
+Type=Application
+Icon=xyz.deathsgun.CosmicControlCenter
+Categories=Cosmic;Iced;
+Keywords=Cosmic;Iced;
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Start
+X-OverflowPriority=10

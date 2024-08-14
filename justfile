@@ -1,5 +1,5 @@
-name := 'cosmic-app-template'
-export APPID := 'com.example.CosmicAppTemplate'
+name := 'cosmic-control-center'
+export APPID := 'xyz.deathsgun.CosmicControlCenter'
 
 rootdir := ''
 prefix := '/usr'
